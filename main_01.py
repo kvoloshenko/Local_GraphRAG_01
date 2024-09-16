@@ -1,3 +1,4 @@
+import tempfile
 import networkx as nx
 from langchain_community.vectorstores import FAISS
 from langchain_text_splitters import RecursiveCharacterTextSplitter
